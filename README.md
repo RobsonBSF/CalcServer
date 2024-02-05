@@ -4,7 +4,7 @@ O CalcServer é uma aplicação cliente-servidor simples que resolve expressões
 # Funcionalidades:
 Comunicação via Sockets: Utiliza sockets para estabelecer uma conexão entre o cliente e o servidor.
 
-Avaliação de Expressões: O servidor avalia as expressões matemáticas recebidas dos clientes de forma segura e retorna os resultados.
+Avaliação de Expressões: O servidor avalia as expressões matemáticas recebidas dos clientes e retorna os resultados.
 
 # Requisitos:
 Python 3.x
